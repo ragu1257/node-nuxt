@@ -1,13 +1,18 @@
 # node-nuxt
-Node Sever:
+#Node Sever:
+
 npm i
+
 npm start
 
-Nuxt:
+#Nuxt:
+
 npm i
+
 npm run dev
 
-Postgres:
+#Postgres:
+
 Create table:
 
 CREATE TABLE public.users
